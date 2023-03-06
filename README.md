@@ -1,4 +1,6 @@
-### Hi there 👋
+![My Profile](https://github-widgetbox.vercel.app/api/profile?username=tinitiuset&data=followers,repositories,stars,commits&theme=carbon)
+
+![My Skills](https://github-widgetbox.vercel.app/api/skills?languages=bash,c,cpp,java,php,python,dart&frameworks=flutter,laravel,angular,bootstrap,tailwind&tools=git,aws,docker,nginx,apache,wordpress,gradle,markdown,postgresql,mysql,redis&software=linux,windows&theme=carbon)
 
 <!--
 **tinitiuset/tinitiuset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
