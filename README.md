@@ -1,1 +1,1 @@
-![Terminal](./img/term.svg)
+[![](./img/term.svg)](https://www.linkedin.com/in/tinitiuset/)
