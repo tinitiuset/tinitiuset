@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1200">
-    <rect x="0" y="0" width="2400" height="1200" fill="#282C34" />
+    <rect x="0" y="0" width="2400" height="1200" fill="#282C34" rx="20" ry="20" />
 
-    <rect x="0" y="0" width="2400" height="60" fill="#202020" />
+    <rect x="0" y="0" width="2400" height="60" fill="#202020" rx="20" ry="20" />
 
     <circle cx="40" cy="30" r="20" fill="#FC615D" />
     <circle cx="100" cy="30" r="20" fill="#FDBC40" />
@@ -12,14 +12,27 @@
     <text x="20" y="240" font-family="monospace" font-size="40" fill="white">tinitiuset@github ➜ ~ find /opt/knowledge -type "Interesting"</text>
     <text x="20" y="300" font-family="monospace" font-size="40" fill="white">DevOps    Observability  Technical_Writing  UNIX</text>
     <text x="20" y="360" font-family="monospace" font-size="40" fill="white">tinitiuset@github ➜ ~ whereis tinitiuset</text>
-    <text x="20" y="420" font-family="monospace" font-size="40" fill="white">tinitiuset: www.linkedin.com/in/tinitiuset/ /usr/share/man/man1/tinitiuset.1.gz</text>
-    <text x="20" y="480" font-family="monospace" font-size="40" fill="white">tinitiuset@github ➜ ~ ls -lh /opt/projects</text>
-    <text x="20" y="540" font-family="monospace" font-size="40" fill="white">total 48K </text>
-    <text x="20" y="600" font-family="monospace" font-size="40" fill="white">lrwxrwxrwx  1 tinitiuset github   37 Nov  10 15:10 lab-grafana -> github.com/tinitiuset/lab-grafana.git</text>
-    <text x="20" y="660" font-family="monospace" font-size="40" fill="white">lrwxrwxrwx  1 tinitiuset github   29 Dec  21 &#160;1:53 fdf -> github.com/tinitiuset/fdf.git</text>
-    <text x="20" y="720" font-family="monospace" font-size="40" fill="white">lrwxrwxrwx  1 tinitiuset github   35 Mar  17 15:35 minishell -> github.com/tinitiuset/minishell.git</text>
-    <text x="20" y="780" font-family="monospace" font-size="40" fill="white">lrwxrwxrwx  1 tinitiuset github   36 Dec  &#160;8 12:48 zmk-config -> github.com/tinitiuset/zmk-config.git</text>
-
+    <a href="https://www.linkedin.com/in/tinitiuset/" target="_blank">
+        <text x="20" y="420" font-family="monospace" font-size="40" fill="white">tinitiuset: www.linkedin.com/in/tinitiuset/ /usr/share/man/man1/tinitiuset.1.gz</text>
+    </a>
+    <a href="https://www.linkedin.com/in/tinitiuset/" target="_blank">
+        <text x="20" y="480" font-family="monospace" font-size="40" fill="white">tinitiuset@github ➜ ~ ls -lh /opt/projects</text>
+    </a>
+    <a href="https://www.linkedin.com/in/tinitiuset/" target="_blank">
+        <text x="20" y="540" font-family="monospace" font-size="40" fill="white">total 48K </text>
+    </a>
+    <a href="https://github.com/tinitiuset/lab-grafana.git" target="_blank">
+        <text x="20" y="600" font-family="monospace" font-size="40" fill="white">lrwxrwxrwx  1 tinitiuset github   37 Nov  10 15:10 lab-grafana -> github.com/tinitiuset/lab-grafana.git</text>
+    </a>
+    <a href="https://github.com/tinitiuset/fdf.git" target="_blank">
+        <text x="20" y="660" font-family="monospace" font-size="40" fill="white">lrwxrwxrwx  1 tinitiuset github   29 Dec  21 &#160;1:53 fdf -> github.com/tinitiuset/fdf.git</text>
+    </a>
+    <a href="https://github.com/tinitiuset/minishell.git" target="_blank">
+        <text x="20" y="720" font-family="monospace" font-size="40" fill="white">lrwxrwxrwx  1 tinitiuset github   35 Mar  17 15:35 minishell -> github.com/tinitiuset/minishell.git</text>
+    </a>
+    <a href="https://github.com/tinitiuset/zmk-config.git" target="_blank">
+        <text x="20" y="780" font-family="monospace" font-size="40" fill="white">lrwxrwxrwx  1 tinitiuset github   36 Dec  &#160;8 12:48 zmk-config -> github.com/tinitiuset/zmk-config.git</text>
+    </a>
     <text x="20" y="840" font-family="monospace" font-size="40" fill="white">tinitiuset@github ➜ ~</text>
     <text x="20" y="900" font-family="monospace" font-size="40" fill="white">tinitiuset@github ➜ ~</text>
     <text x="20" y="960" font-family="monospace" font-size="40" fill="white">tinitiuset@github ➜ ~</text>
