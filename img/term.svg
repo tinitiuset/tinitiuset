@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 1200">
     <rect x="0" y="0" width="2400" height="1200" fill="#282C34" rx="20" ry="20" />
 
-    <rect x="0" y="0" width="2400" height="60" fill="#202020" rx="20" ry="20" />
+    <rect x="0" y="0" width="2400" height="80" fill="#202020" rx="20" ry="20" />
 
-    <circle cx="40" cy="30" r="20" fill="#FC615D" />
-    <circle cx="100" cy="30" r="20" fill="#FDBC40" />
-    <circle cx="160" cy="30" r="20" fill="#35C84E" />
+    <circle cx="40" cy="40" r="20" fill="#FC615D" />
+    <circle cx="100" cy="40" r="20" fill="#FDBC40" />
+    <circle cx="160" cy="40" r="20" fill="#35C84E" />
 
     <text x="20" y="120" font-family="monospace" font-size="40" fill="white">tinitiuset@github ➜ ~ whoami</text>
     <text x="20" y="180" font-family="monospace" font-size="40" fill="white">Martin Valiente Ainz</text>
